@@ -32,7 +32,7 @@ $ npm run start:prod
 
       npm run test:unit
 
-<h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias: <h4>
+<h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos: <h4>
 
     - Node
     - Nest.js
@@ -42,5 +42,6 @@ $ npm run start:prod
     - TDD 
     - UUID
     - Clean Archicteture.
+    - Solid.
 
 
