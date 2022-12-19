@@ -10,6 +10,7 @@ Você pode usar este microserviço para alertar os usuários sobre atualizaçõe
 Se você precisa de um sistema de notificação confiável e poderoso, este microserviço é uma ótima opção.
 
 ## :rocket:Instalação
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para instalar as dependencias:
 
 ```bash
 $ npm install
@@ -27,6 +28,12 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## 📍 Para os Testes foi utilizado: 
+
+- Jest foi utilizado para ser o TestRunner
+
+
+<br>
 
 <h3>✨ Utilizando os testes:</h3>
 
