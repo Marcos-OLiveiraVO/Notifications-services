@@ -3,6 +3,8 @@
 
 Este é um microserviço de notificação construído com o TypeScript e o NestJS. Ele permite que você envie notificações em tempo real para os usuários de sua aplicação ou plataforma. Com este microserviço, é fácil criar notificações personalizadas e segmentadas para diferentes usuários ou grupos. 
 
+ Ele é uma ferramenta poderosa para manter os usuários informados sobre atualizações importantes, novas funcionalidades, promoções e outras informações relevantes.
+
 Você pode usar este microserviço para alertar os usuários sobre atualizações importantes, novas funcionalidades, promoções ou qualquer outra informação relevante. Além disso, o microserviço é escalável e pode lidar com grandes volumes de notificações sem problemas. 
 
 Se você precisa de um sistema de notificação confiável e poderoso, este microserviço é uma ótima opção.
