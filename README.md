@@ -29,11 +29,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 ## 📍 Para os Testes foi utilizado: 
-
 - Jest foi utilizado para ser o TestRunner
 
-
-<br>
 
 <h3>✨ Utilizando os testes:</h3>
 
