@@ -39,4 +39,14 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+<h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias: <h4>
+
+    - Node
+    - Nest.js
+    - SQL 
+    - Prisma
+    - Jest
+    - TDD 
+    - UUID
+
 
