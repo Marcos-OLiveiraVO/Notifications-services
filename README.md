@@ -7,13 +7,13 @@ Você pode usar este microserviço para alertar os usuários sobre atualizaçõe
 
 Se você precisa de um sistema de notificação confiável e poderoso, este microserviço é uma ótima opção.
 
-## Installation
+## :rocket:Instalação
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Rodar o app
 
 ```bash
 # development
@@ -26,18 +26,11 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+<h3>✨ Utilizando os testes:</h3>
 
-```bash
-# unit tests
-$ npm run test
+<h5> Testes de unidade: </h5>
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
+      npm run test:unit
 
 <h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias: <h4>
 
