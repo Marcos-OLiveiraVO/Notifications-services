@@ -1,13 +1,9 @@
 
-## Description
+## Sobre o Notification Service
 
-Este é um microserviço de notificação construído com o TypeScript e o NestJS. Ele permite que você envie notificações em tempo real para os usuários de sua aplicação ou plataforma. Com este microserviço, é fácil criar notificações personalizadas e segmentadas para diferentes usuários ou grupos. 
+Este é um microserviço de notificação construído com o TypeScript e o NestJS, que utiliza o Kafka como mecanismo de gerenciamento de mensagens em tempo real para enviar notificações aos usuários de sua aplicação ou plataforma. Com este microserviço, é fácil criar notificações personalizadas e segmentadas para diferentes usuários ou grupos, garantindo a entrega confiável das mensagens mesmo em grandes volumes.
 
- Ele é uma ferramenta poderosa para manter os usuários informados sobre atualizações importantes, novas funcionalidades, promoções e outras informações relevantes.
-
-Você pode usar este microserviço para alertar os usuários sobre atualizações importantes, novas funcionalidades, promoções ou qualquer outra informação relevante. Além disso, o microserviço é escalável e pode lidar com grandes volumes de notificações sem problemas. 
-
-Se você precisa de um sistema de notificação confiável e poderoso, este microserviço é uma ótima opção.
+Além de manter os usuários informados sobre atualizações importantes, novas funcionalidades, promoções e outras informações relevantes, o microserviço é uma ferramenta poderosa para alertar os usuários sobre qualquer tipo de informação importante. Com a escalabilidade garantida pelo Kafka, este microserviço é uma opção confiável e poderosa para qualquer sistema de notificação.
 
 ## :rocket:Instalação
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para instalar as dependencias:
