@@ -707,6 +707,14 @@
     "tslib" "2.4.1"
     "uuid" "9.0.0"
 
+"@nestjs/microservices@^9.0.0", "@nestjs/microservices@^9.2.1":
+  "integrity" "sha512-ve4dqgoIaUG9VtinHHGCvf6SvtPjd3I44Mj8z8mSkcB8BEPfJnf4FNOShFBgsedtxLaiZyjpv8NCLcNVv5KKGg=="
+  "resolved" "https://registry.npmjs.org/@nestjs/microservices/-/microservices-9.2.1.tgz"
+  "version" "9.2.1"
+  dependencies:
+    "iterare" "1.2.1"
+    "tslib" "2.4.1"
+
 "@nestjs/platform-express@^9.0.0":
   "integrity" "sha512-7PecaXt8lrdS1p6Vb1X/am3GGv+EO1VahyDzaEGOK6C0zwhc0VPfLtwihkjjfhS6BjpRIXXgviwEjONUvxVZnA=="
   "resolved" "https://registry.npmjs.org/@nestjs/platform-express/-/platform-express-9.2.1.tgz"
@@ -3278,6 +3286,11 @@
     "universalify" "^2.0.0"
   optionalDependencies:
     "graceful-fs" "^4.1.6"
+
+"kafkajs@*", "kafkajs@^2.2.3":
+  "integrity" "sha512-JmzIiLHE/TdQ7b4I2B/DNMtfhTh66fmEaEg7gGkyQXBC6f1A7I2jSjeUsVIJfC8d9YcEIURyBjtOEKBO5OHVhg=="
+  "resolved" "https://registry.npmjs.org/kafkajs/-/kafkajs-2.2.3.tgz"
+  "version" "2.2.3"
 
 "kleur@^3.0.3":
   "integrity" "sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w=="
