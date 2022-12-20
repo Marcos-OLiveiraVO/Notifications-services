@@ -49,5 +49,6 @@ $ npm run start:prod
     - UUID
     - Clean Archicteture.
     - Solid.
+    - Kafka
 
 
