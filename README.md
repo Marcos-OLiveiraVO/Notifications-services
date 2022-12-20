@@ -36,7 +36,7 @@ $ npm run start:prod
 
 <h5> Testes de unidade: </h5>
 
-      npm run test:unit
+      npm run test:watch
 
 <h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos: <h4>
 
