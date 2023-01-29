@@ -36,7 +36,7 @@ $ npm run start:prod
 
 <h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos: <h4>
 
-    - Node
+    - Node.
     - Nest.js
     - SQL 
     - Prisma
